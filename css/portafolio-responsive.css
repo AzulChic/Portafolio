@@ -1,0 +1,123 @@
+
+@media (min-width: 320px) and (max-width: 420px) {
+	
+		.name h1 {
+		line-height: 2;
+	}
+
+	.about-me-bg .inner-hero {
+		padding: 0;
+	}
+
+	.media {
+		margin: 0;
+	}
+
+	.pull-left {
+		float: none !important;
+		width: 100%;
+		text-align: center;
+	}
+
+	.about-me-bg img {
+		width: 70%;
+	}
+
+	.media {
+		margin-top: 30px !important;
+	}
+
+	.media-body {
+		padding: 0 5%;
+		margin-top: 0;
+	}
+
+	.media-body h3 {
+		font-size: 0.9em;
+	}
+
+	.media-body p {
+		font-size: 0.8em;
+	}
+
+	.abilities-bg .icon-5x {
+		font-size: 2em;
+	}
+
+	.abilities-bg .icon-4x {
+		font-size: 2em;
+	}
+
+	.abilities-bg .icon-3x {
+		font-size: 2em;
+	}
+
+.icon-2x {
+		font-size: 1.5em;
+	}
+
+	.abilities-bg h3 {
+		font-size: 13px;
+	}
+
+	.abilities-bg p {
+		font-size: 0.7em;
+	}
+
+	.abilities-box .hidden-xs {
+		display: none !important;
+	}
+
+	.abilities-bg .col-xs-12 {
+		margin-top: 30px;
+	}
+
+	.project, .project img {
+		height: 100px;
+	}
+
+	.project-mt {
+		margin-top: 50px;
+	}
+
+	.inner-project i {
+		font-size: 1em;
+	}
+
+	.project-name {
+		top: 82%;
+	}
+
+	.primes {
+		left: 27%;
+	}
+
+	.dashboard {
+		left: 19%;
+	}
+
+	.freelancer {
+		left: 20.5%;
+	}
+
+	.flat-themes {
+		top: 69%;
+		left: 17%;
+	}
+
+	.delinatur {
+		left: 23%;
+	}
+
+	.project-name p {
+		font-size: 0.5em;
+	}
+
+	#contact-me p {
+		font-size: 0.8em;
+	}
+
+	#contact-me .pd-30 {
+		padding: 2% 0;
+	}
+}
